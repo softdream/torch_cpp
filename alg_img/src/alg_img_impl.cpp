@@ -1,12 +1,3 @@
-/*
- * @Author: yafeng.zhou
- * @Date: 2021-10-11 18:23:15
- * @LastEditTime: 2021-10-12 14:48:48
- * @LastEditors: yafeng.zhou
- * @Description: Implementation class of Alg interface.
- * @FilePath: /algorithm/src/alg_img_impl.cpp
- * @Version: 1.0
- */
 #include "alg_img_impl.h"
 #include <iostream>
 

@@ -1,11 +1,3 @@
-/*
- * @Author: yafeng.zhou
- * @Date: 2021-10-11 16:48:08
- * @LastEditTime: 2021-10-12 14:28:10
- * @LastEditors: yafeng.zhou
- * @Description: Ricloud Algorithm Application Programming Interface from JAVA.
- * @Version: 1.0
- */
 #ifndef __ALG_API_H__
 #define __ALG_API_H__
 

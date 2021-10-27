@@ -1,12 +1,3 @@
-/*
- * @Author: yafeng.zhou
- * @Date: 2021-10-11 18:18:39
- * @LastEditTime: 2021-10-12 11:23:41
- * @LastEditors: yafeng.zhou
- * @Description: Implementation class of AlgFactory interface.
- * @FilePath: /algorithm/include/alg_img_factory_impl.h
- * @Version: 1.0
- */
 #pragma once
 
 #include "alg_api.h"
